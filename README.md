@@ -3,6 +3,8 @@
 <!--
 **xelpixness/xelpixness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
