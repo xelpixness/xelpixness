@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,linux)](https://skillicons.dev)
