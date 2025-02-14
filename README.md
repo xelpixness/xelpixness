@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,vite)](https://skillicons.dev)
