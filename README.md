@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I'm just a School 21 student looking for an internship or a job.
+🌱 I'm School 21 student looking for an internship or a job.
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,ubuntu,postgresql,mysql,git,html,css,js,flask)](https://skillicons.dev)
